@@ -1,4 +1,4 @@
-//2016/3_1
+//2016/3-1
 #include <algorithm>
 #include <iostream>
 #include <vector>
