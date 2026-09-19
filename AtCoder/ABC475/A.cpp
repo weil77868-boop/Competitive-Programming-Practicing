@@ -1,6 +1,6 @@
 /*
  * Problem: AtCoder ABC475 A - mnclr
- * Tag: Implementation, String
+ * Tag: String
  */
 #include <iostream>
 #include <string>
