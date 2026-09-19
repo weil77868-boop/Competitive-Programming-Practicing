@@ -1,6 +1,5 @@
 /*
  * Problem: AtCoder ABC475 A - mnclr
- * Link: https://atcoder.jp/contests/abc475/tasks/abc475_a
  * Tag: Implementation, String
  */
 #include <iostream>
