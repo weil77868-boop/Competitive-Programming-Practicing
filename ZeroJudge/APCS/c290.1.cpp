@@ -1,4 +1,4 @@
-//2017/3-1
+//2017/3-1 秘密差
 #include <cmath>
 #include <iostream>
 #include <string>
