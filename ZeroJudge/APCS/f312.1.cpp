@@ -1,4 +1,4 @@
-//2020/10-1
+//2020/10-1 人力分配
 #include <iostream>
 #include <algorithm>
 using namespace std;
