@@ -1,4 +1,4 @@
-//2016/3-1
+//2016/3-1 成績指標
 #include <algorithm>
 #include <iostream>
 #include <vector>
