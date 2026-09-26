@@ -1,4 +1,4 @@
-//2016/10-1
+//2016/10-1 三角形辨別
 #include <iostream>
 #include <algorithm>
 using namespace std;
