@@ -1,4 +1,8 @@
-//a065.提款卡密碼
+/*
+ * Problem : ZeroJudge a065.提款卡密碼
+ * Date : 2026/09
+ * Tag : String, Math
+ */
 #include <cmath>
 #include <iostream>
 #include <string>
