@@ -1,6 +1,6 @@
 /*
  * Problem : ZeroJudge c294. APCS 三角形辨別 2016/10-1
- * Date : 2026/09
+ * Date : 2026/08
  * Tag : Math, Sorting, Function
  */
 #include <iostream>
