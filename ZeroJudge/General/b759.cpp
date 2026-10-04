@@ -1,4 +1,8 @@
-//b759.我明明就有說過= =
+/*
+ * Problem : ZeroJudge b759.我明明就有說過= =
+ * Date : 2026/10
+ * Tag : String, Math
+ */
 #include <iostream>
 #include <string>
 using namespace std;
