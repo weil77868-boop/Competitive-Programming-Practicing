@@ -1,6 +1,6 @@
 /*
  * Problem : ZeroJudge b762.英國聯蒙
- * Date : 2026/09
+ * Date : 2026/10
  * Tag : State Machine
  */
 #include <iostream>
