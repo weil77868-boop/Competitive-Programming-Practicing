@@ -1,4 +1,8 @@
-//2020/10-1 人力分配
+/*
+ * Problem : ZeroJudge f312.1. 人力分配 APCS 2020/10
+ * Date : 2026/08
+ * Tag : Math, Brute Force, Function
+ */
 #include <iostream>
 #include <algorithm>
 using namespace std;
