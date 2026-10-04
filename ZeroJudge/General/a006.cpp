@@ -1,3 +1,8 @@
+/*
+ * Problem : ZeroJudge a006.一元二次方程式
+ * Date : 2026/08
+ * Tag : Math, Function
+ */
 #include <cmath>
 #include <iostream>
 using namespace std;
