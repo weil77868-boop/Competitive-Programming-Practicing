@@ -1,4 +1,8 @@
-//c638.天干地支
+/*
+ * Problem : ZeroJudge c638.天干地支
+ * Date : 2026/09
+ * Tag : Modular Arithmetic
+ */
 #include <iostream>
 using namespace std;
 
