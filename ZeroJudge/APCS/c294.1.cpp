@@ -1,4 +1,8 @@
-//2016/10-1 三角形辨別
+/*
+ * Problem : ZeroJudge c294. APCS 三角形辨別 2016/10-1
+ * Date : 2026/09
+ * Tag : Math, Sorting, Function
+ */
 #include <iostream>
 #include <algorithm>
 using namespace std;
