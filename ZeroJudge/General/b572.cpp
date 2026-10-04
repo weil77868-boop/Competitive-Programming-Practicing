@@ -1,4 +1,8 @@
-//b572.忘了東西的傑克
+/*
+ * Problem : ZeroJudge b572.忘了東西的傑克
+ * Date : 2026/10
+ * Tag : Time Complexity
+ */
 #include <iostream>
 using namespace std;
 
