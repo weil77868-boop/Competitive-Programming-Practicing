@@ -3,7 +3,6 @@
  * Date : 2026/10
  * Tag : Math, Function
  */
-#include <cmath>
 #include <iostream>
 using namespace std;
 
