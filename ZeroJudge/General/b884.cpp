@@ -1,7 +1,7 @@
 /*
  * Problem : ZeroJudge b884.電腦教室的傑克
  * Date : 2026/10
- * Tag : Math, function
+ * Tag : Math, Function
  */
 #include <cmath>
 #include <iostream>
