@@ -11,7 +11,10 @@ int a[100];
 int main() {
   int n, c;
   while (cin >> n) {
-    if (n == 0) cout << '0\n';
+    if (n == 0) {
+      cout << '0' << '\n';
+      continue;
+    }
     c = 0;
     while (n > 0) {
       a[c] = n % 2;
