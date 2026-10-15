@@ -11,7 +11,7 @@ long long A[82];
 int main() {
   A[1] = 1;
   A[2] = 1;
-  for (int i = 3; i <= 82; i++) {
+  for (int i = 3; i <= 81; i++) {
     A[i] = A[i - 1] + A[i - 2];
   }
   int n;
