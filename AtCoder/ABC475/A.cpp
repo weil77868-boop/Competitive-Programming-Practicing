@@ -1,6 +1,7 @@
 /*
- * Problem: AtCoder ABC475 A - mnclr
- * Tag: String
+ * Problem : AtCoder ABC A. mnclr
+ * Date : 2026/9
+ * Tag : String
  */
 #include <iostream>
 #include <string>
