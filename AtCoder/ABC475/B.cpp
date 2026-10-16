@@ -1,6 +1,7 @@
 /*
- * Problem: AtCoder ABC475 B - Change
- * Tag: Basic
+ * Problem : AtCoder ABC B. Change
+ * Date : 2026/9
+ * Tag : Math, Functions
  */
 #include <iostream>
 #include <vector>
