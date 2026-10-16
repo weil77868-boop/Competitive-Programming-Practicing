@@ -8,10 +8,9 @@
 using namespace std;
 
 int main() {
-  int n;
+  int n, sum = 0;
   cin >> n;
   vector<int> num(n);
-  int sum = 0;
   for (int i = 0; i < n; i++) {
     cin >> num[i];
     if (i % 2 == 0) sum += num[i];
