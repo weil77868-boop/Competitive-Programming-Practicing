@@ -1,2 +1,2 @@
 # Competitive-Programming-Practicing
-記錄競程練習
+- 2026/7/1 初次註冊ZeroJudge
