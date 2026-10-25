@@ -1,7 +1,7 @@
 /*
  * Problem : AtCoder ABC 477 B
  * Date : 2026/10
- * Tag : Simulation, Two Pointers
+ * Tag : Simulation, Brute Force
  * 解題思路 :
  * 檢查環狀陣列中每個元素與其他所有元素的絕對差值是否皆大於或等於 d，
  * 利用取餘數處理環狀邊界，若符合條件則計數並記錄其 1-based 索引。
